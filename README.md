@@ -1,5 +1,5 @@
 # Health_Insights
-A complete data engineering project using Adf for ingestion and pipelining, Azure databricks for Transformation and Azure synapse analytics for loading and Power BI for reports 
+A complete data engineering project using Adf for ingestion and pipelining, Azure databricks for Transformation and Azure synapse analytics for loading and Power BI for reports.
 
 # Data Transformation Depiction
 ![ss3](https://github.com/Amir-Razvi/Health_Insights/assets/67238892/61e83ca9-1ef9-49ba-93bb-336f9662a216)
